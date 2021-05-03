@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'csv'
+gem 'pry'
+gem 'shotgun'
+gem 'sinatra'
